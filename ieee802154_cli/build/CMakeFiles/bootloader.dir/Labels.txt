@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Prog/ESP/ieee802154_cli/build/CMakeFiles/bootloader
+D:/Prog/ESP/ieee802154_cli/build/CMakeFiles/bootloader.rule
+D:/Prog/ESP/ieee802154_cli/build/CMakeFiles/bootloader-complete.rule
+D:/Prog/ESP/ieee802154_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Prog/ESP/ieee802154_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Prog/ESP/ieee802154_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Prog/ESP/ieee802154_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Prog/ESP/ieee802154_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Prog/ESP/ieee802154_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Prog/ESP/ieee802154_cli/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

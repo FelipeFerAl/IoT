@@ -1,0 +1,2 @@
+source D:/Prog/ESP/ieee802154_cli/build/gdbinit/symbols
+source D:/Prog/ESP/ieee802154_cli/build/gdbinit/connect
