@@ -1,0 +1,21 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "d:\\Prog\\v5.5\\esp-idf",
+  "idf.toolsPathWin": "d:\\Prog\\ESP",
+  "idf.pythonInstallPath": "d:\\Prog\\ESP\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32c6-ftdi.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "clangd.path": "d:\\Prog\\ESP\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=d:\\Prog\\ESP\\tools\\xtensa-esp-elf\\esp-14.2.0_20250730\\xtensa-esp-elf\\bin\\xtensa-esp32-elf-gcc.exe",
+    "--compile-commands-dir=d:\\Prog\\ESP\\Blinker"
+  ],
+  "idf.portWin": "COM8",
+  "idf.monitorPort": "COM8",
+  "idf.flashType": "UART"
+}

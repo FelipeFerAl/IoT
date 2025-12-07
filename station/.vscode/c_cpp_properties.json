@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "name": "ESP-IDF",
+      "compilerPath": "${config:idf.toolsPathWin}\\tools\\xtensa-esp-elf\\esp-14.2.0_20250730\\xtensa-esp-elf\\bin\\xtensa-esp32-elf-gcc.exe",
+      "compileCommands": "d:\\Prog\\ESP\\Blinker\\compile_commands.json",
+      "includePath": [
+        "${config:idf.espIdfPath}/components/**",
+        "${config:idf.espIdfPathWin}/components/**",
+        "${workspaceFolder}/**",
+        "C:/esp-idf/components/**",
+        "C:/esp-idf/components/esp_wifi/include",
+        "C:/esp-idf/components/mqtt/include",
+        "C:/esp-idf/components/led_strip/include"
+      ],
+      "browse": {
+        "path": [
+          "${config:idf.espIdfPath}/components",
+          "${config:idf.espIdfPathWin}/components",
+          "${workspaceFolder}"
+        ],
+        "limitSymbolsToIncludedHeaders": true
+      }
+    }
+  ],
+  "version": 4
+}
